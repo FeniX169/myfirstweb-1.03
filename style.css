@@ -72,6 +72,10 @@ aside {
   border: 2px solid black;
 }
 
+#hnav2 li {
+  display: inline-block;
+}
+
 footer {
   background-color: #F1C40F;
   width: 100%;
