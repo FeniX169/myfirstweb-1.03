@@ -73,7 +73,7 @@ aside {
 }
 
 #hnav2 li {
-  display: inline-block;
+  display: flex;
 }
 
 footer {
