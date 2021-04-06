@@ -40,7 +40,9 @@ header {
 
 main {
   background-color: #E67E22;
+  margin: 0 auto;
   padding: 130px 10px 10px 10px;
+  width: 600px;
 }
 
 figure {
