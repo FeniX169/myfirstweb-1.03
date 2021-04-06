@@ -29,7 +29,7 @@ header {
 }
 
 #hnav li {
-  display: inline-block;
+  display: inline-flex;
 }
 
 #hnav ul {
